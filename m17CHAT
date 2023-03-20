@@ -1,6 +1,13 @@
-<!-- You have to put this piece of JavaScript code into your web page
-Note: Use <!DOCTYPE html> on the page where snippet located for better rendering
--->
+<!DOCTYPE html>
+
+<!--___PRODUCT_BUILD___ (___PRODUCT_COMMENTS___) ___PRODUCT_DATE___-->
+
+<html>
+<head>
+    <title>Chat Test Page</title>
+</head>
+<body>
+
 <link type="text/css" rel="stylesheet" href="https://m17.brightpattern.com/clientweb/chat-client-v4/css/form.css">
 <script type="text/javascript">
     SERVICE_PATTERN_CHAT_CONFIG = {
